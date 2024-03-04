@@ -512,8 +512,7 @@ section.depoimentos .flex {
 
     /*cabeçalho*/
 
-    .menu-desktop,
-    .btn-contato {
+    .menu-desktop{
         display: none;
     }
 
