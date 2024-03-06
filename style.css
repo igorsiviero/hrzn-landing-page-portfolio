@@ -149,7 +149,7 @@ section.especialidades .flex {
     margin-top: 45px;
     border-radius: 20px;
     transition: .2s;
-    background-color: ;
+    background-color: rgb(9, 0, 23);
 }
 
 .especialidades .especialidades-box:hover {
@@ -252,10 +252,24 @@ section.portfolio .flex {
     margin-top: 45px;
     border-radius: 20px;
     transition: .2s;
-    background-color: ;
+    background-color: rgb(9, 0, 23);
     display: flex;
     border-color: white;
     align-items: center;
+}
+
+.portfolio .projetos-box-dev .texto button{
+    background-color: rgb(0, 98, 255);
+    margin-left: 35px;
+    color: white;
+    align-items: center;
+    width: 260px;
+    height: 30px;
+    padding: 1px 12%;
+    gap: 40px;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 6px;
 }
 
 
@@ -407,7 +421,7 @@ section.depoimentos .flex {
     margin-top: 45px;
     border-radius: 20px;
     transition: .2s;
-    background-color: ;
+    background-color: rgb(9, 0, 23);
     display: flex;
     border-color: white;
     align-items: center;
@@ -488,7 +502,7 @@ footer .flex{
     }
 
     .portfolio .projetos-box-dev img{
-       margin-left: 10px;
+        margin-left: 12px;
     }
     
 
